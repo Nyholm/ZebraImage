@@ -1,6 +1,6 @@
 <?php
 
-namespace Webfish\ZebraImage;
+namespace Nyholm\ZebraImage;
 
 /**
  *  Methods used with the {@link resize()} method.

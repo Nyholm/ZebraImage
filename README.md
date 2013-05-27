@@ -8,11 +8,12 @@ Installation
 
 Use composer.
 
-
+     "nyholm/zebra-image": "1.0.0"
 
 Usage
 =====
-$lib=new \Nyholm\ZebraImage\ZebraImage();
+
+     $lib=new \Nyholm\ZebraImage\ZebraImage();
 
 
 Documentation

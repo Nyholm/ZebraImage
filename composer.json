@@ -18,10 +18,5 @@
    
     "autoload": {
         "psr-0": { "Nyholm\\ZebraImage": "src" }
-    },
-     "extra": {
-        "branch-alias": {
-            "master": "1.0"
-        }
     }
 }

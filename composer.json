@@ -4,7 +4,7 @@
     "description": "The ZebraImage PHP library in a nice package.",
     "keywords": ["Zebra Image", "ZebraImage"],
     "homepage": "http://www.tnyholm.se",
-    "license": "MIT",
+    "license": "LGPL",
     "authors": [
         {
             "name": "Tobias Nyholm",
